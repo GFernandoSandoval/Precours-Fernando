@@ -1,2 +1,6 @@
-# Precours-Fernando
-prueba modulo 2 del precour  de Fernando
+archivo creado por fernando sandoval como prueba del nuevo repositor, github prueba
+
+buena Suerte!
+
+trabajando
+
